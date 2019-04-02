@@ -24,3 +24,4 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 [Tue Apr 02 19:32:03.187616 2019] [autoindex:error] [pid 16] [client 172.29.0.1:43342] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
 [Tue Apr 02 19:32:03.368975 2019] [autoindex:error] [pid 16] [client 172.29.0.1:43342] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
 [Tue Apr 02 19:32:03.535436 2019] [autoindex:error] [pid 16] [client 172.29.0.1:43342] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Apr 02 21:25:01.560228 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
